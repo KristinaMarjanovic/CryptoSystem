@@ -1,0 +1,10 @@
+C:\Users\milos\Desktop\SoapAndHttpEndpoints\CS\DbLib\bin\Debug\DbLib.dll
+C:\Users\milos\Desktop\SoapAndHttpEndpoints\CS\DbLib\bin\Debug\DbLib.pdb
+C:\Users\milos\Desktop\SoapAndHttpEndpoints\CS\DbLib\obj\Debug\Db.csprojAssemblyReference.cache
+C:\Users\milos\Desktop\SoapAndHttpEndpoints\CS\DbLib\obj\Debug\DbLib.dll
+C:\Users\milos\Desktop\SoapAndHttpEndpoints\CS\DbLib\obj\Debug\DbLib.pdb
+C:\Users\milos\Desktop\CS\trunk\CS\DbLib\bin\Debug\DbLib.dll
+C:\Users\milos\Desktop\CS\trunk\CS\DbLib\bin\Debug\DbLib.pdb
+C:\Users\milos\Desktop\CS\trunk\CS\DbLib\obj\Debug\Db.csprojAssemblyReference.cache
+C:\Users\milos\Desktop\CS\trunk\CS\DbLib\obj\Debug\DbLib.dll
+C:\Users\milos\Desktop\CS\trunk\CS\DbLib\obj\Debug\DbLib.pdb

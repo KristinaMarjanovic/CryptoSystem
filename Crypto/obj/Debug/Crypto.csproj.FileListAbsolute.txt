@@ -1,0 +1,10 @@
+C:\Users\milos\Desktop\SoapAndHttpEndpoints\CS\Crypto\bin\Debug\Crypto.dll
+C:\Users\milos\Desktop\SoapAndHttpEndpoints\CS\Crypto\bin\Debug\Crypto.pdb
+C:\Users\milos\Desktop\SoapAndHttpEndpoints\CS\Crypto\obj\Debug\Crypto.csprojAssemblyReference.cache
+C:\Users\milos\Desktop\SoapAndHttpEndpoints\CS\Crypto\obj\Debug\Crypto.dll
+C:\Users\milos\Desktop\SoapAndHttpEndpoints\CS\Crypto\obj\Debug\Crypto.pdb
+C:\Users\milos\Desktop\CS\trunk\CS\Crypto\bin\Debug\Crypto.dll
+C:\Users\milos\Desktop\CS\trunk\CS\Crypto\bin\Debug\Crypto.pdb
+C:\Users\milos\Desktop\CS\trunk\CS\Crypto\obj\Debug\Crypto.csprojAssemblyReference.cache
+C:\Users\milos\Desktop\CS\trunk\CS\Crypto\obj\Debug\Crypto.dll
+C:\Users\milos\Desktop\CS\trunk\CS\Crypto\obj\Debug\Crypto.pdb
